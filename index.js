@@ -1,5 +1,6 @@
 const Dc = require('discord.js')
 const bot  = new Dc.Client()
+const client.login('Q_8WWHinEfN6Ip1v8_5X1MMC13XyWsGM')
 require('dotenv').config()
 const PREFIX = "_";
 //==============
